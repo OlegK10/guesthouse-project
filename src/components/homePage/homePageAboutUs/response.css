@@ -1,0 +1,232 @@
+@media screen and (max-width: 1540px) {
+.hpas_i_i{
+    width: 270px;
+}
+    .hpas_content{
+        top: 60px;
+        width:1470px;
+    }
+
+.hpas_txt{
+    position: relative;
+    top: -40px;
+}
+
+.hpas_txt_text{
+    font-size: 20px;
+    width: 90%;
+}
+
+}
+
+@media screen and (max-width: 1400px) {
+    .hpas_i_i{
+        width: 250px;
+    }
+        .hpas_content{
+            top: 60px;
+            width:1270px;
+        }
+    
+    .hpas_txt{
+        position: relative;
+        top: -40px;
+        width: 600px;
+    }
+    
+    .hpas_txt_text{
+        font-size: 20px;
+    }
+    
+    }
+
+@media screen and (max-width: 1165px) {
+    .hpas_i_i{
+        width: 230px;
+    }
+    
+}
+
+@media screen and (max-width: 1120px) {
+    .hpas_i_i{
+        width: 220px;
+    }
+.hpas_imgs{
+    right: 10px;
+
+}
+    .hpas_i_in{
+    position: relative;
+    top: -40px;
+    left: 20px;
+    transform: skew(0deg, -5deg);
+}
+    
+}
+
+@media screen and (max-width: 1100px) {
+    .hpas_i_in{
+        left: 220px;
+    }
+    .hpas_content{
+        width: 1050px;
+    }
+    .hpas_i_i{
+        width: 210px;
+    }
+}
+
+@media screen and (max-width: 1035px) {
+    .hpas_imgs{
+        display: none;
+    }
+
+    .hpas_i_in{
+        right: 0;
+        top: 0; 
+    }
+    .hpas_content{
+        width: 1000px;
+    }
+.hpas_i_ir_mb{
+    display: block;
+    width: 290px;
+}
+}
+
+
+@media screen and (max-width: 970px) {
+    .hpas_content{
+        width: 900px;
+    }
+    .hpas_txt_text{
+        font-size: 1em;
+    }
+    .hpas_i_ir_mb{
+        display: block;
+        width: 270px;
+    }
+}
+
+
+@media screen and (max-width: 900px) {
+    .hpas_content{
+        width: 800px;
+    }
+
+    .hpas_txt_tit_v{
+        font-size: 50px;
+    }
+    .hpas_txt_tit_gh{
+        font-size: 20px;
+    }
+
+}
+
+
+@media screen and (max-width: 790px) {
+    .hpas_content{
+        width:770px;
+    }
+
+    .hpas_txt_tit_v{
+        font-size: 50px;
+    }
+    .hpas_txt_tit_gh{
+        font-size: 20px;
+    }
+
+}
+
+
+@media screen and (max-width: 760px) {
+    .hpas_content{
+        width:700px;
+    }
+
+    .hpas_txt_tit_v{
+        font-size: 50px;
+    }
+    .hpas_txt_tit_gh{
+        font-size: 20px;
+    }
+
+}
+
+
+@media screen and (max-width: 700px) {
+    .hpas_content{
+        width:600px;
+    }
+
+    .hpas_txt_tit_v{
+        font-size: 34px;
+    }
+    .hpas_txt_tit_gh{
+        font-size: 14px;
+    }
+
+    .hpas_txt_text{
+        font-size: 12px;
+    }
+
+}
+
+@media screen and (max-width: 600px) {
+    .hpas_content{
+        width:570px;
+    }
+
+    .hpas_txt_tit_v{
+        font-size: 34px;
+    }
+    .hpas_txt_tit_gh{
+        font-size: 14px;
+    }
+
+    .hpas_txt_text{
+        font-size: 12px;
+    }
+
+}
+
+@media screen and (max-width: 560px) {
+    .hpas_content{
+        width:520px;
+    }
+
+    .hpas_txt_tit_v{
+        font-size: 34px;
+    }
+    .hpas_txt_tit_gh{
+        font-size: 14px;
+    }
+
+    .hpas_txt_text{
+        font-size: 12px;
+    }
+
+    .hpas_i_ir_mb{
+        width: 220px;
+    }
+
+}
+
+
+@media screen and (max-width: 520px) {
+    .hpas_content{
+        width:300px;
+    }
+
+    .hpas_i_ir_mb{
+        display: none;
+    }
+
+    
+.hpas_txt{
+    position: relative;
+    top: -100px;
+    height: 100%;
+}
+
+}

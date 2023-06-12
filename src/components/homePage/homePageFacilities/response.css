@@ -1,0 +1,143 @@
+@media screen and (max-width: 1520px) {
+    .hpfac_item{
+        width: 350px;
+        height: 150px;
+        padding: 12px;
+        margin: 17px;
+    }
+
+    .hpfac_i_des{
+        font-size: 16px;
+    }
+
+    .hpfac_i_ico_img{
+        width: 50px;
+    }
+
+    .hpfac_i_ti{
+        font-size: 27px;
+
+    }
+}
+
+
+@media screen and (max-width: 1150px) {
+    .hpfac_content{
+        position: relative;
+        width: 1100px;
+        height: 700px;
+        }
+}
+
+
+@media screen and (max-width: 1100px) {
+    .hpfac_content{
+        position: relative;
+        width: 900px;
+        height: 700px;
+        }
+}
+
+@media screen and (max-width:900px) {
+    .hpfac_content{
+        position: relative;
+        width: 800px;
+        height: 700px;
+        }
+
+        .hpfac_item{
+            width: 340px;
+            height: 140px;
+            padding: 10px;
+            margin: 10px;
+        }
+    
+        .hpfac_i_des{
+            font-size: 15px;
+        }
+    
+        .hpfac_i_ico_img{
+            width: 47px;
+        }
+    
+        .hpfac_i_ti{
+            font-size: 25px;
+        }
+}
+
+
+@media screen and (max-width:800px) {
+    .hpfac_content{
+        position: relative;
+        width: 700px;
+        height: 700px;
+        }
+
+        .hpfac_item{
+            padding: 3px;
+            margin: 7px;
+        }
+}
+
+@media screen and (max-width:710px) {
+    .hpfac_content{
+        position: relative;
+        width: 600px;
+        height: 700px;
+        }
+
+        .hpfac_item{
+            padding: 3px;
+            margin: 7px;
+        }
+}
+
+@media screen and (max-width:610px) {
+    .hpfac_content{
+        position: relative;
+        width: 500px;
+        height: 700px;
+        }
+
+        .hpfac_item{
+            padding: 4px;
+            margin: 4px;
+        }
+    
+        .hpfac_i_des{
+            font-size: 14px;
+        }
+    
+        .hpfac_i_ico_img{
+            width: 44px;
+        }
+    
+        .hpfac_i_ti{
+            font-size: 22px;
+        }
+}
+
+@media screen and (max-width:510px) {
+    .hpfac_content{
+        position: relative;
+        width: 400px;
+        height: 700px;
+        }
+
+        .hpfac_item{
+            padding: 4px;
+            margin: 4px;
+        }
+    
+        .hpfac_i_des{
+            font-size: 14px;
+        }
+    
+        .hpfac_i_ico_img{
+            width: 44px;
+        }
+    
+        .hpfac_i_ti{
+            font-size: 17px;
+        }
+}

@@ -1,0 +1,157 @@
+.mrc_item, .ml_logo_v, .ml_logo_gs{
+    color:var(--c-white)
+}
+.menu{
+    position: fixed;
+    width: 100%;
+    z-index: 99;
+}
+.menu_content{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 27px;
+}
+
+.menu_right_content{
+    display: flex;
+}
+.mrc_item{
+    font-size: 26px;
+    cursor: pointer;
+    margin: 0 45px;
+    font-family: var(--ff-main);
+    letter-spacing: 0.05em;
+    font-weight: 100;
+}
+
+.mrc_item:hover, .mrc_item:active{
+    opacity: .7;
+    color:var(--c-cus-1);
+}
+
+.mrcactive{
+    color:var(--c-cus-1);
+    border-bottom: 1px solid ;
+    position: relative;
+}
+
+.ml_logo{
+    text-align: center;
+    margin-left: 24px;
+}
+
+.ml_logo_v{
+    font-family: var(--ff-custom);
+    font-size: 40px;
+    font-weight: 200;
+    letter-spacing: 0.15em;
+}
+
+.ml_logo_gs{
+    font-family: var(--ff-custom);
+    font-weight: 300;
+    font-size: 20px;
+    letter-spacing: 0.415em;
+}
+
+.menu_left{
+    display: flex;
+    margin-left: 40px;
+    align-items: center;
+}
+
+.i_lamp_li{
+    width: 50px;
+}
+
+.i_lamp_li:hover{
+    cursor: pointer;
+    transform: scale(90%)
+}
+
+
+  
+.mob_mer{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mobMen_btn{
+    position: absolute;
+    right: 20px;
+    top: 20px;
+}
+
+.mobMenCont{
+    position: relative;
+    width: 98%;
+    top: 210px;
+    background-color: var(--c-white-0);
+}
+
+.mob_mrc_item{
+    margin: 15px 0;
+    cursor: pointer;
+    padding: 10px 35px;
+    width: 80%;
+}
+
+.mob_mrc_item:hover{
+    background-color:var(--c-cus-1);
+}
+
+
+.mobMenContClose{
+    position: absolute;
+    cursor: pointer;
+    right: 14px;
+    top: 14px;
+    font-size: 21px;
+    font-weight: bold;
+}
+.mobMenContClose:hover{
+    color:var(--c-cus-1)
+}
+
+.i_lang{
+    cursor: pointer;
+    width: 30px;
+}
+
+.langs_list{
+    position: absolute;
+    top: 60px;
+    width: 60%;
+    background-color: var(--c-white-0);
+}
+
+.lang_close{
+    text-align: right;
+    padding: 10px 20px;
+}
+
+.lang_li{
+    margin: 14px 0;
+    padding: 12px 20px;
+    width: 90%;
+}
+
+.lang_li:hover{
+    background-color: var(--c-cus-1);
+}
+
+.lang_close{
+    font-size: 21px;
+    font-weight: bold;
+}
+
+.lang_close:hover{
+    color:var(--c-cus-1);
+    background-color: rgba(21,21,21,.7);
+
+}

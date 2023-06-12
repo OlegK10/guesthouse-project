@@ -1,0 +1,137 @@
+@media screen and (max-width: 1300px) {
+    .hptr_item{
+        margin: 0 10px;
+        width: 300px;
+        height: 470px;
+    }
+}
+
+@media screen and (max-width: 1130px) {
+
+    .hptr_item{
+        margin: 0 10px;
+        width: 290px;
+        height: 460px;
+    }
+
+    .hptr_tit{
+        font-size: 50px;
+    }
+}
+
+
+@media screen and (max-width: 1065px) {
+
+    .hptr_item{
+        margin: 0 7px;
+        width: 270px;
+        height: 440px;
+    }
+
+    .hptr_tit{
+        font-size: 45px;
+    }
+}
+
+@media screen and (max-width: 970px) {
+    .hptr_arrow{
+        display: none;
+    }
+    .mp_d_btn{
+        display: block;
+    }
+}
+
+
+
+@media screen and (max-width: 880px) {
+    .hptr_item{
+        margin: 0 7px;
+        width: 245px;
+        height: 420px;
+    }
+
+    .hptr_tit{
+        margin-left: 10px;
+        font-size: 41px;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .hptr_item{
+        margin: 0 4px;
+        width: 235px;
+        height: 410px;
+    }
+
+    .hptr_tit{
+        margin-left: 13px;
+        font-size: 38px;
+    }
+}
+
+
+@media screen and (max-width: 750px) {
+    .hptr_item{
+        margin: 0 5px;
+        width: 215px;
+        height: 390px;
+    }
+
+    .hptr_tit{
+        margin-left: 13px;
+        font-size: 38px;
+    }
+}
+
+
+@media screen and (max-width: 690px) {
+    .hptr_item{
+        margin: 0 7px;
+        width: 200px;
+        height: 370px;
+    }
+
+    .hptr_tit{
+        margin-left: 14px;
+        font-size: 31px;
+    }
+}
+
+@media screen and (max-width: 650px) {
+    .hptr_item{
+        margin: 0 7px;
+        width: 250px;
+        height: 380px;
+    }
+    
+    .hptr_main{
+        align-items: center;
+    }
+
+    .hptr_item{
+        position: absolute;
+        right: 0;
+        left: 0;
+        margin: 0 auto;
+    }
+
+    .hptr_tit{
+        position: absolute;
+        top:60px;
+    }
+
+    .hptr_item_3{
+        position: absolute;
+        right: -200%;
+
+    }
+
+    .hptr_item_1{
+        position: absolute;
+        left: -200%;
+    }
+    .mp_d_btn{
+        display: none;
+    }
+}

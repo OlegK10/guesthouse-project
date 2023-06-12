@@ -1,0 +1,174 @@
+@media screen and (max-width: 1300px) {
+    .hpt_cont{
+        width: 1240px;
+    }
+
+    .hpt_i{
+        position: relative;
+        width: 300px;
+    }
+
+}
+
+@media screen and (max-width: 1100px) {
+    .hpt_cont{
+        width: 1000px;
+    }
+
+    .hpt_i{
+        position: relative;
+        width: 270px;
+    }
+    .htp_matit{
+        font-size: 44px;
+    }
+    .htp_i_tit{
+        font-size: 27px;
+    }
+}
+
+@media screen and (max-width: 980px) {
+    .hpt_cont{
+        width: 950px;
+    }
+
+    .hpt_i{
+        position: relative;
+        width: 250px;
+    }
+    .htp_matit{
+        font-size: 40px;
+    }
+    .htp_i_tit{
+        font-size: 24px;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .hpt_cont{
+        width: 830px;
+    }
+    .hpt_i{
+        position: relative;
+        width: 220px;
+    }
+    .htp_matit{
+        font-size: 36px;
+    }
+    .htp_i_tit{
+        font-size: 24px;
+    }
+}
+
+@media screen and (max-width: 820px) {
+    .hpt_cont{
+        width: 800px;
+    }
+    .hpt_i{
+        position: relative;
+        width: 200px;
+    }
+    .htp_matit{
+        font-size: 31px;
+    }
+    .htp_i_tit{
+        font-size: 22px;
+    }
+}
+
+
+
+@media screen and (max-width: 740px) {
+    .hpt_cont{
+        width: 700px;
+    }
+    .hpt_i{
+        position: relative;
+        width: 170px;
+    }
+    .htp_matit{
+        font-size: 28px;
+    }
+    .htp_i_tit{
+        font-size: 20px;
+    }
+}
+
+
+@media screen and (max-width: 700px) {
+    .hpt_cont{
+        width: 600px;
+    }
+    .hpt_i{
+        position: relative;
+        width: 270px;
+    }
+    .htp_matit{
+        font-size: 28px;
+    }
+    .htp_i_tit{
+        font-size: 20px;
+    }
+
+    .hpt_i_1{
+        top: 0;
+        transform: rotate(0);
+    }
+
+    .hpt_i_3{
+        display: none;
+    }
+}
+
+
+@media screen and (max-width: 600px) {
+    .hpt_cont{
+        width: 500px;
+    }
+    .hpt_i{
+        width: 200px;
+    }
+    .htp_matit{
+        font-size: 28px;
+    }
+    .htp_i_tit{
+        font-size: 19px;
+    }
+
+}
+
+@media screen and (max-width: 550px) {
+    .hpt_cont{
+        width: 400px;
+    }
+    .hpt_i{
+        width: 180px;
+    }
+    .htp_matit{
+        font-size: 29px;
+    }
+    .htp_i_tit{
+        font-size: 19px;
+    }
+
+}
+
+
+@media screen and (max-width: 400px) {
+    .hpt_cont{
+        width: 300px;
+    }
+    .hpt_i{
+        width: 160px;
+    }
+    .htp_matit{
+        font-size: 26px;
+    }
+    .htp_i_tit{
+        font-size: 16px;
+    }
+    .htp_next{
+        font-size: 19px;
+    }
+
+}

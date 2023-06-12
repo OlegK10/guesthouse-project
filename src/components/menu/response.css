@@ -1,0 +1,145 @@
+@media screen and (max-width: 1710px) {
+ .ml_logo_v{
+    font-size: 38px;
+ }
+
+ .ml_logo_gs{
+    font-size: 18px;
+ }
+
+    .i_lamp_li{
+        width: 40px;
+    }
+
+    .mrc_item{
+        font-size: 25px;
+    }
+
+
+
+
+}
+
+
+@media screen and (max-width: 1540px) {
+ .ml_logo_v{
+    font-size: 38px;
+ }
+
+ .ml_logo_gs{
+    font-size: 18px;
+ }
+
+    .i_lamp_li{
+        width: 40px;
+    }
+
+    .mrc_item{
+        font-size: 21px;
+        margin: 0 24px;
+    }
+
+    .mrc_item{
+        font-size: 20px;
+        margin: 0 28px;
+    }
+    .menu_content{
+        padding: 20px;
+       }
+
+}
+
+@media screen and (max-width: 1400px) {
+    .ml_logo_v{
+       font-size: 36px;
+    }
+   
+    .ml_logo_gs{
+       font-size: 17px;
+    }
+   
+       .i_lamp_li{
+           width: 38px;
+       }
+   
+       .mrc_item{
+           font-size: 18px;
+       }
+   
+}
+
+
+@media screen and (max-width: 1230px) {
+    .ml_logo_v{
+       font-size: 34px;
+    }
+   
+    .ml_logo_gs{
+       font-size: 15px;
+    }
+   
+       .i_lamp_li{
+           width: 36px;
+       }
+   
+       .mrc_item{
+           font-size: 17px;
+           margin: 0 24px;
+       }
+   
+       .menu_content{
+        padding: 12px;
+       }
+}
+
+
+
+@media screen and (max-width: 1110px) {
+    .ml_logo_v{
+       font-size: 34px;
+    }
+   
+    .ml_logo_gs{
+       font-size: 15px;
+    }
+   
+       .i_lamp_li{
+           width: 36px;
+       }
+   
+       .mrc_item{
+           font-size: 17px;
+           margin: 0 17px;
+       }
+   
+       .menu_content{
+        padding: 12px;
+       }
+}
+
+
+@media screen and (max-width: 910px) {
+
+       .mrc_item{
+           font-size: 16px;
+           margin: 0 15px;
+       }
+   
+       .menu_content{
+        padding: 11px 1px;
+       }
+}
+
+
+@media screen and (max-width: 830px) {
+
+    .menu_left{
+        position: absolute;
+        left: 0;
+        top: 20px;
+    }
+    .menu_content{
+        background-color: transparent !important;
+        box-shadow: none !important;
+    }
+}
