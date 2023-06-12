@@ -4,7 +4,17 @@
 ![page](https://github.com/OlegK10/guesthouse-project/blob/main/images/p3.png)
 ![page](https://github.com/OlegK10/guesthouse-project/blob/main/images/p4.png)
 ![page](https://github.com/OlegK10/guesthouse-project/blob/main/images/p5.png)
-main page
+MAIN PAGE 
+
+![page](https://github.com/OlegK10/guesthouse-project/blob/main/images/restaurant.png)
+RESTAURANT PAGE 
+
+![page](https://github.com/OlegK10/guesthouse-project/blob/main/images/room_pricing.png)
+ROOM & PRICING PAGE 
+
+![page](https://github.com/OlegK10/guesthouse-project/blob/main/images/tourism.png)
+TOURISM PAGE 
+
 
 
 
